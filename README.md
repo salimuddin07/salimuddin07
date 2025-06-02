@@ -29,10 +29,10 @@ I specialize in building intelligent, automated workflows using modern web techn
   <strong>📬 Let's connect if you’re looking to automate your business or build smart web tools!</strong>
 
   <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2025/02/solo-leveling.jpg?q=70&fit=crop&w=1140&h=&dpr=1" height="400" />
   <br><br><br>
 
-  <a href="http://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://web.telegram.org/a/"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:salimuddinsaiyed5@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
