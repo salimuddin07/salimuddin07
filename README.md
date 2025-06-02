@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/fb/53/80/fb53801b9c134abc7c9a1c8f8c5ce76b.gif" width="25%" align="right" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=AI+Automation+Web+Development;Web+Developer+Specialized+in+AI+Workflows" width="70%" />
 
-<!--
-**salimuddin07/salimuddin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br><br>
+  <pre>
+🚀 Looking for a Web Developer providing AI automation solutions?
 
-Here are some ideas to get you started:
+I specialize in building intelligent, automated workflows using modern web technologies:
+🔧 JavaScript • Node.js • React • AI APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 GitHub Redeem Code: GH-AI-AUTO-WEB-DEV-2025
+  </pre>
+
+  <br>
+
+  <h3>🧠 Services Offered</h3>
+
+  <ul align="left">
+    <li>🤖 AI Chatbot Integrations (WhatsApp, Telegram, Web)</li>
+    <li>📱 Automated Content Posting (Instagram Reels, Blogs)</li>
+    <li>🔁 Workflow Automation (n8n, Make, Zapier)</li>
+    <li>📊 Custom Dashboards and Web Apps</li>
+    <li>🧠 AI-Powered Responses & Analytics</li>
+  </ul>
+
+  <br>
+  <strong>📬 Let's connect if you’re looking to automate your business or build smart web tools!</strong>
+
+  <br><br>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <br><br><br>
+
+  <a href="http://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
