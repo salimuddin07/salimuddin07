@@ -3,19 +3,25 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=AI+Automation+Web+Development;Web+Developer+Specialized+in+AI+Workflows" width="70%" />
 
-  <br><br>
-  <pre>
-🚀 Looking for a Web Developer providing AI automation solutions?
+  
+<p align="right" style="margin-top: -200px;">
+  <img src="zoro.jpg.jpeg" alt="Zoro" width="300">
+</p>
 
-I specialize in building intelligent, automated workflows using modern web technologies:
-🔧 JavaScript • Node.js • React • AI APIs
+  
+ <div  align="left" style="margin-top: -395px;">
+  🚀 Looking for a Web Developer providing AI automation solutions?
 
-🔹 GitHub Redeem Code: GH-AI-AUTO-WEB-DEV-2025
-  </pre>
+  I specialize in building intelligent,<br></br> automated workflows using modern web technologies:
+  🔧 JavaScript • Node.js • React • AI APIs
+
+  🔹 GitHub Redeem Code: GH-AI-AUTO-WEB-DEV-2025
+</div>
 
   <br>
 
   <h3>🧠 Services Offered</h3>
+
 
   <ul align="left">
     <li>🤖 AI Chatbot Integrations (WhatsApp, Telegram, Web)</li>
@@ -29,7 +35,9 @@ I specialize in building intelligent, automated workflows using modern web techn
   <strong>📬 Let's connect if you’re looking to automate your business or build smart web tools!</strong>
 
   <br><br>
-  <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2025/02/solo-leveling.jpg?q=70&fit=crop&w=1140&h=&dpr=1" height="400" />
+
+
+
   <br><br><br>
 
   <a href="https://web.telegram.org/a/"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
