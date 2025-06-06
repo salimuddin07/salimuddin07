@@ -13,7 +13,7 @@
   🚀 Looking for a Web Developer providing AI automation solutions?
 
   I specialize in building intelligent,<br></br> automated workflows using modern web technologies:
-  🔧 JavaScript • Node.js • React • AI APIs
+  🔧 JavaScript • Node.js  • AI APIs
 
   🔹 GitHub Redeem Code: GH-AI-AUTO-WEB-DEV-2025
 </div>
