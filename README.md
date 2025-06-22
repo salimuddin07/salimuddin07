@@ -13,7 +13,7 @@
   🚀 Looking for a Web Developer providing AI automation solutions?
 
   I specialize in building intelligent,<br></br> automated workflows using modern web technologies:
-  🔧 JavaScript • Node.js • React • AI APIs
+  🔧 JavaScript • Node.js  • AI APIs
 
   🔹 GitHub Redeem Code: GH-AI-AUTO-WEB-DEV-2025
 </div>
@@ -40,7 +40,7 @@
 
   <br><br><br>
 
-  <a href="https://web.telegram.org/a/"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:salimuddinsaiyed5@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ai-automation-275ab6359/"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://web.telegram.org/k/"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:salim@theautomagichub.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
