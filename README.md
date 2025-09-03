@@ -1,44 +1,60 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/fb/53/80/fb53801b9c134abc7c9a1c8f8c5ce76b.gif" width="25%" align="right" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=AI+Automation+Web+Development;Web+Developer+Specialized+in+AI+Workflows" width="70%" />
-  
-<div class="1" align="right" style="margin-top: -200px;">
-  <img src="zoro.jpg.jpeg" alt="Zoro" width="300">
 
+  <!-- Header Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=HII+SALIMUDDIN'S+HERE;AI+AUTOMATION+AND+WEB+SCRAPER+EXPERT" width="70%" style="margin-top: 20px;" />
 
-<div align="left" style="margin-top: -395px;">
-  🚀 Looking for a Web Developer providing AI automation solutions?
-
-  I specialize in building intelligent,<br></br> automated workflows using modern web technologies:
-  🔧 JavaScript • Node.js  • AI APIs
-
-  🔹 GitHub Redeem Code: GH-AI-AUTO-WEB-DEV-2025
-</div>
-</div>
+  <!-- Profile Image -->
   <br>
+<!--   <img src="zoro.jpg.jpeg" alt="Profile Picture" width="200" style="border-radius:50%; margin-top: 20px;"/> -->
 
-  <h3>🧠 Services Offered</h3>
-
-
-  <ul align="left">
-    <li>🤖 AI Chatbot Integrations (WhatsApp, Telegram, Web)</li>
-    <li>📱 Automated Content Posting (Instagram Reels, Blogs)</li>
-    <li>🔁 Workflow Automation (n8n, Make, Zapier)</li>
-    <li>📊 Custom Dashboards and Web Apps</li>
-    <li>🧠 AI-Powered Responses & Analytics</li>
-  </ul>
-
+  <!-- Animated GIF -->
   <br>
-  <strong>📬 Let's connect if you’re looking to automate your business or build smart web tools!</strong>
+  <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Pixel-Art/hsh1.gif" width="100%" style="margin-top: 20px;"/>
+  
+</div>
 
-  <br><br>
+---
+
+<div align="center">
+
+# 🚀 About Me
+
+Hi, I’m Salimuddin – a **Web Developer specializing in web scraping and automation**. I design and implement intelligent workflows that extract, process, and analyze data to help businesses make data-driven decisions. My work focuses on **automating repetitive tasks, aggregating data from multiple sources, and delivering actionable insights** through custom web applications.
+
+With a strong foundation in JavaScript and Node.js, I build scalable scraping scripts, automated workflows, and dashboards that turn raw data into meaningful results.
 
 
+## 💻 Tech Stack
 
-  <br><br><br>
+- **Languages & Frameworks:** JavaScript, Node.js, TypeScript, React.js  
+- **AI & Automation:** OpenAI API, AI workflow integrations
+- **Automation Platforms:** n8n, Make (Integromat), Zapier  
+- **Databases & Tools:** MongoDB, PostgreSQL, Firebase  
+- **Other Tools:** REST APIs, Webhooks, Git/GitHub  
 
-  <a href="https://www.linkedin.com/in/ai-automation-275ab6359/"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://web.telegram.org/k/"><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:salim@theautomagichub.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+---
+
+
+## 🧠 Services I Offer
+
+- **🌐 Web Scraping & Data Extraction:** Gather structured and unstructured data from websites, APIs, and online platforms.  
+- **📱 Automated Content Posting:** Schedule and automate content publishing for blogs, social media, or other platforms.  
+- **🔁 Workflow Automation:** Streamline business processes and reduce manual effort using n8n, Make, or Zapier.  
+- **📊 Custom Dashboards & Web Apps:** Transform scraped or automated data into actionable insights through interactive dashboards.  
+- **🧠 Data Processing & Analytics:** Clean, process, and visualize data for business intelligence or reporting purposes. 
+---
+
+## 🌟 Key Achievements
+
+- Built automated web scraping pipelines for multiple clients, reducing manual data collection time by over 70%.  
+- Developed dashboards for monitoring scraped data trends and analytics in real-time.  
+- Integrated automated workflows that combine web scraping, API calls, and notifications to improve operational efficiency.  
+- Successfully deployed scraping scripts and automation tools for dynamic websites and social media platforms.  
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-automation-275ab6359/)  
+[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)  
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salim@theautomagichub.com)
+
 </div>
