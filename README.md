@@ -9,7 +9,7 @@
 
   <!-- Animated GIF -->
   <br>
-  <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Pixel-Art/hsh1.gif" width="100%" style="margin-top: 20px;"/>
+  <img src="https://i.pinimg.com/originals/15/8e/1a/158e1a4f49ee8ab8ff7097a32fe4d756.gif" width="70%" style="margin-top: 20px;"/>
   
 </div>
 
@@ -53,8 +53,21 @@ With a strong foundation in JavaScript and Node.js, I build scalable scraping sc
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-automation-275ab6359/)  
-[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)  
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salim@theautomagichub.com)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/salimuddin07/">
+    <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+   <a href="https://x.com/salimuddin007">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logoColor=white">
+  </a>
+<!--   <a href="https://web.telegram.org/k/">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin:10px;">
+  </a> -->
+  <a href="mailto:salimuddinsaiyed5@gmail.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
 
 </div>
