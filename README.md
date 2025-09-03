@@ -57,18 +57,22 @@ With a strong foundation in JavaScript and Node.js, I build scalable scraping sc
 ### 📬 Connect with Me
 
 <div align="center">
+  <a href="https://x.com/salimuddin007">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/salimuddin07/">
     <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-   <a href="https://x.com/salimuddin007">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logoColor=white">
-  </a>
-<!--   <a href="https://web.telegram.org/k/">
-    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin:10px;">
-  </a> -->
+  <a href="https://www.instagram.com/iam_salimuddin_07/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+ </a>
   <a href="mailto:salimuddinsaiyed5@gmail.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+
+<!--   <a href="https://web.telegram.org/k/">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin:10px;">
+  </a> -->
 </div>
 
 
