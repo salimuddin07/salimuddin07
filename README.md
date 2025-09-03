@@ -9,7 +9,8 @@
 
   <!-- Animated GIF -->
   <br>
-  <img src="https://i.pinimg.com/originals/15/8e/1a/158e1a4f49ee8ab8ff7097a32fe4d756.gif" width="70%" style="margin-top: 20px;"/>
+  <img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" width="90%" style="margin-top: 20px;"/>
+<!--   <img src="https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif" width="90%" style="margin-top: 20px;"/> -->
   
 </div>
 
