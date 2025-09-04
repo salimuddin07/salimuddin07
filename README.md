@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=100&lines=HII+SALIMUDDIN'S+HERE;AI+AUTOMATION+AND+WEB+SCRAPER+EXPERT" width="70%" style="margin-top: 20px;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=74478b&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=100&lines=HII+SALIMUDDIN'S+HERE;AI+AUTOMATION+AND+WEB+SCRAPER+EXPERT" width="70%" style="margin-top: 20px;" alt="Typing SVG"/>
+
 
   <br>
 <!--   <img src="zoro.jpg.jpeg" alt="Profile Picture" width="200" style="border-radius:50%; margin-top: 20px;"/> -->
