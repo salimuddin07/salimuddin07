@@ -46,14 +46,6 @@ With a strong foundation in JavaScript and Node.js, I build scalable scraping sc
 - **🧠 Data Processing & Analytics:** Clean, process, and visualize data for business intelligence or reporting purposes. 
 ---
 
-## 🌟 Key Achievements
-
-- Built automated web scraping pipelines for multiple clients, reducing manual data collection time by over 70%.  
-- Developed dashboards for monitoring scraped data trends and analytics in real-time.  
-- Integrated automated workflows that combine web scraping, API calls, and notifications to improve operational efficiency.  
-- Successfully deployed scraping scripts and automation tools for dynamic websites and social media platforms.  
----
-
 ### 📬 Connect with Me
 
 <div align="center">
