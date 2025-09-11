@@ -8,7 +8,7 @@
 
   <!-- Animated GIF -->
   <br>
-  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="95%" style="margin-top: 20px;"/>
+  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="100%" style="margin-top: 20px;"/>
 <!--   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="95%" style="margin-top: 20px;"/> -->
 <!--   <img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" width="90%" style="margin-top: 20px;"/> -->
 <!--   <img src="https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif" width="90%" style="margin-top: 20px;"/> -->
