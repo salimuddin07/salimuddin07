@@ -5,6 +5,7 @@
 
   <br>
 <!--   <img src="zoro.jpg.jpeg" alt="Profile Picture" width="200" style="border-radius:50%; margin-top: 20px;"/> -->
+<!-- https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg -->
 
   <!-- Animated GIF -->
   <br>
