@@ -52,9 +52,9 @@ I build **scalable workflows, scraping scripts, and dashboards** that turn raw d
   <img src="https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/66e3d729c77b48f5c03da73d_Group_2_58ad425d58.svg" alt="Postgre"                width="35" height="35"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/dark/aws-color.png" alt="AWS" width="35" height="35"/>
 <!--   <img src="https://cdn-icons-png.flaticon.com/128/15267/15267841.png" alt="API" width="35" height="35"/> -->
-  <-- <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="35" height="35"/>
-  <img src="https://n8n.io/nodes/github.svg" alt="GitHub" width="35" height="35"/> -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcO-6ML3otiw8cxmFlQZ9BjJ6Nrfsal3zvw&s" alt="N8M" width="35" height="35"/>
+   <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="35" height="35"/>
+  <img src="https://n8n.io/nodes/github.svg" alt="GitHub" width="35" height="35"/> 
+  <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcO-6ML3otiw8cxmFlQZ9BjJ6Nrfsal3zvw&s" alt="N8N" width="35" height="35"/> -->
   <img src="https://static.vecteezy.com/system/resources/previews/022/841/114/large_2x/chatgpt-logo-transparent-background-free-png.png" alt="OpenAI" width="33"           height="33"/>
 <!--   <img src="https://images.ctfassets.net/un655fb9wln6/1k5wBPhbu5kXiaYlFWgEJE/b590772959bd510e64cf230ef37bba3e/Make-Logo-RGB.svg" alt="OpenAI" width="80" height="80"/> -->
 </p>
