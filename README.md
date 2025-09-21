@@ -54,13 +54,13 @@ I build **scalable workflows, scraping scripts, and dashboards** that turn raw d
 <!--   <img src="https://cdn-icons-png.flaticon.com/128/15267/15267841.png" alt="API" width="35" height="35"/> -->
    <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="35" height="35"/>
   <img src="https://n8n.io/nodes/github.svg" alt="GitHub" width="35" height="35"/> 
-  <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcO-6ML3otiw8cxmFlQZ9BjJ6Nrfsal3zvw&s" alt="N8N" width="35" height="35"/> -->
+  <img src="https://docs.n8n.io/_images/n8n-docs-icon.svg" alt="N8N" width="40" height="45"/>
   <img src="https://static.vecteezy.com/system/resources/previews/022/841/114/large_2x/chatgpt-logo-transparent-background-free-png.png" alt="OpenAI" width="33"           height="33"/>
 <!--   <img src="https://images.ctfassets.net/un655fb9wln6/1k5wBPhbu5kXiaYlFWgEJE/b590772959bd510e64cf230ef37bba3e/Make-Logo-RGB.svg" alt="OpenAI" width="80" height="80"/> -->
 </p>
 
 ---
-
+file:///C:/Users/salim/Downloads/N8n--Streamline-Simple-Icons.svg
 ## 🧠 Services I Offer
 
 Web scraping & data extraction • Automated content posting • Workflow automation  
