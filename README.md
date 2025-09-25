@@ -60,7 +60,7 @@ I build **scalable workflows, scraping scripts, and dashboards** that turn raw d
 </p>
 
 ---
-file:///C:/Users/salim/Downloads/N8n--Streamline-Simple-Icons.svg
+
 ## 🧠 Services I Offer
 
 Web scraping & data extraction • Automated content posting • Workflow automation  
