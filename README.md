@@ -69,6 +69,12 @@ With a strong foundation in JavaScript and Node.js, I build scalable scraping sc
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+---
+### GitHub Stats<hr>
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=salimuddin07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimuddin07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
