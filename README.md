@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=40&duration=3000&pause=300&color=74478b&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=100&lines=HII+SALIMUDDIN'S+HERE;AI+AUTOMATION+AND+WEB+SCRAPER+EXPERT" width="70%" style="margin-top: 20px;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=40&duration=3000&pause=300&color=74478b&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=100&lines=HII+SALIMUDDIN'S+HERE;AI+AUTOMATION+AND+WEB+SCRAPING+SPECIALIST" width="70%" style="margin-top: 20px;" alt="Typing SVG"/>
 
 
   <br>
