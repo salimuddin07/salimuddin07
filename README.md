@@ -29,7 +29,7 @@ Hi, I’m Salimuddin – a **Web Developer specializing in web scraping and auto
 I build **scalable workflows, scraping scripts, and dashboards** that turn raw data into actionable insights. 
 
 **Visit my website**  
-🔗 [click here](https://www.salimuddin.tech)
+[click here](https://www.salimuddin.tech)
 ---
 
 ## 💻 Tech Stack
