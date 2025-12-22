@@ -49,7 +49,7 @@ I build **scalable workflows, scraping scripts, and dashboards** that turn raw d
   <img src="https://apify.com/img/template-icons/puppeteer.svg" alt="Puppeteer" width="35" height="35"/>
   <img src="https://apify.com/img/template-icons/axios.svg" alt="Axios" width="35" height="35"/>
   <img src="https://apify.com/img/template-icons/playwright.svg" alt="PlayWright" width="35" height="35"/>
-  <img src="https://apify.com/img/template-icons/beautifulsoup.svg" alt="BeautifulSoup" width="33" height="33"/>
+<img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ad.svg" alt="Patchright" width="33" height="33"/>
   <img src="https://auth-db1290.hstgr.io/themes/pmahomme/img/logo_right.png" alt="PhPMyAdmin" width="50" height="50"/>
   <img src="https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/66e3d729c77b48f5c03da73d_Group_2_58ad425d58.svg" alt="Postgre"                width="35" height="35"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/dark/aws-color.png" alt="AWS" width="35" height="35"/>
