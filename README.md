@@ -34,7 +34,39 @@ I build **scalable workflows, scraping scripts, and dashboards** that turn raw d
 
 ## 💻 Tech Stack
 
-<p align="center">
+
+<table align="center">
+  <tr>
+    <!-- Row 1 -->
+    <td><img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/15772/15772797.png" width="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/15484/15484303.png" width="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" width="35"/></td>
+    <td><img src="https://apify.com/img/apify-logo/logomark-32x32.svg" width="32"/></td>
+    <td><img src="https://apify.com/img/template-icons/crawlee.svg" width="35"/></td>
+    <td><img src="https://apify.com/img/template-icons/cheerio.svg" width="33"/></td>
+  </tr>
+
+  <tr>
+    <!-- Row 2 -->
+    <td><img src="https://auth-db1290.hstgr.io/themes/pmahomme/img/logo_right.png" width="50"/></td>
+    <td><img src="https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/66e3d729c77b48f5c03da73d_Group_2_58ad425d58.svg" width="35"/></td>
+    <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/dark/aws-color.png" width="35"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" width="35"/></td>
+    <td><img src="https://n8n.io/nodes/github.svg" width="35"/></td>
+    <td><img src="https://docs.n8n.io/_images/n8n-docs-icon.svg" width="40"/></td>
+    <td><img src="https://apify.com/img/template-icons/puppeteer.svg" width="35"/></td>
+    <td><img src="https://apify.com/img/template-icons/axios.svg" width="35"/></td>
+    <td><img src="https://apify.com/img/template-icons/playwright.svg" width="35"/></td>
+    <td><img src="https://twemoji.maxcdn.com/v/latest/svg/1f3ad.svg" width="33"/></td>
+  </tr>
+
+</table>
+
+<!-- <p align="center" >
   <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="35" height="35"/>
@@ -43,7 +75,7 @@ I build **scalable workflows, scraping scripts, and dashboards** that turn raw d
   <img src="https://cdn-icons-png.flaticon.com/128/15484/15484303.png" alt="NodeJs" width="35" height="35"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="PhP" width="35" height="35"/>
 <!--   <img src="https://cdn-icons-png.flaticon.com/128/17379/17379046.png" alt="Code" width="35" height="35"/> -->
-  <img src="https://apify.com/img/apify-logo/logomark-32x32.svg" alt="Apify" width="32" height="32"/>
+  <!-- <img src="https://apify.com/img/apify-logo/logomark-32x32.svg" alt="Apify" width="32" height="32"/>
   <img src="https://apify.com/img/template-icons/crawlee.svg" alt="Crawlee" width="35" height="35"/>
   <img src="https://apify.com/img/template-icons/cheerio.svg" alt="Cheerio" width="33" height="33"/>
   <img src="https://apify.com/img/template-icons/puppeteer.svg" alt="Puppeteer" width="35" height="35"/>
@@ -54,12 +86,12 @@ I build **scalable workflows, scraping scripts, and dashboards** that turn raw d
   <img src="https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/66e3d729c77b48f5c03da73d_Group_2_58ad425d58.svg" alt="Postgre"                width="35" height="35"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/dark/aws-color.png" alt="AWS" width="35" height="35"/>
 <!--   <img src="https://cdn-icons-png.flaticon.com/128/15267/15267841.png" alt="API" width="35" height="35"/> -->
-   <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="35" height="35"/>
+   <!-- <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" width="35" height="35"/>
   <img src="https://n8n.io/nodes/github.svg" alt="GitHub" width="35" height="35"/> 
   <img src="https://docs.n8n.io/_images/n8n-docs-icon.svg" alt="N8N" width="40" height="45"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/022/841/114/large_2x/chatgpt-logo-transparent-background-free-png.png" alt="OpenAI" width="33"           height="33"/>
-<!--   <img src="https://images.ctfassets.net/un655fb9wln6/1k5wBPhbu5kXiaYlFWgEJE/b590772959bd510e64cf230ef37bba3e/Make-Logo-RGB.svg" alt="OpenAI" width="80" height="80"/> -->
-</p>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/841/114/large_2x/chatgpt-logo-transparent-background-free-png.png" alt="OpenAI" width="33"           height="33"/> 
+<!--   <img src="https://images.ctfassets.net/un655fb9wln6/1k5wBPhbu5kXiaYlFWgEJE/b590772959bd510e64cf230ef37bba3e/Make-Logo-RGB.svg" alt="OpenAI" width="80" height="80"/> 
+</p> -->
 
 ---
 
